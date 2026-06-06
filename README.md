@@ -22,6 +22,5 @@ Figma • Design Systems • UX/UI • Product Thinking • Product Design
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-d-vieira/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andre-d-vieira.webflow.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andre-d-vieira/)
+- 🌐 [Portfolio](https://andre-d-vieira.webflow.io/)
