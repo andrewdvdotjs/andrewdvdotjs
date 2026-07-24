@@ -6,7 +6,7 @@ I work across design and engineering, combining UX, frontend, and mobile develop
 
 Currently:
 - 📱 Building **Iron Guild** (fitness & workout tracking app in Flutter)
-- 🎯 Transitioning deeper into **Mobile Engineering**
+- 🎯 Transitioning deeper into **Software Development**
 - 🧩 Interested in product development, UX, and adaptive experiences
 
 ## Tech & Tools
