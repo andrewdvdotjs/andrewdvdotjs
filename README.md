@@ -1,4 +1,4 @@
-# Hey, I'm Andrew 👋
+# Hey, I'm Andre 👋
 
 UX/UI Engineer & Product-minded Developer focused on building intuitive digital experiences.
 
